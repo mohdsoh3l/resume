@@ -2,7 +2,7 @@
 
 This repository contains the code for my personal portfolio website, built with HTML, CSS, and modern JavaScript. It's designed to be a clean, professional, and dynamic showcase of my skills, projects, and experience as a Full-Stack Developer.
 
-**➡️ [View Live Demo](https://mohdsohel-07.github.io/resume/)** ⬅️
+**➡️ [View Live Demo](https://mohdsoh3l.github.io/resume/)** ⬅️
 
 ---
 
