@@ -56,4 +56,4 @@ I'm always open to connecting and collaborating on new projects!
 
 **Mohd Sohel** - [zaiduroy@gmail.com](mailto:zaiduroy@gmail.com)
 
-Project Link: [https://github.com/mohdsohel-07/your-repository-name](https://github.com/mohdsohel-07/your-repository-name)
+Project Link: [https://github.com/mohdsoh3l/resume/](https://github.com/mohdsoh3l/resume/)
