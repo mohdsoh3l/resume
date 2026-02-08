@@ -6,11 +6,6 @@ This repository contains the code for my personal portfolio website, built with 
 
 ---
 
-## Screenshot
-
-![Portfolio Screenshot](<img width="746" height="382" alt="image" src="https://github.com/user-attachments/assets/7fc18669-7a4d-4098-9b06-94ec22484b19"/>)
-
----
 
 ## Features
 
